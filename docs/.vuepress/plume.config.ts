@@ -59,8 +59,8 @@ export default defineThemeConfig({
        */
       profile: {
         avatar: 'https://theme-plume.vuejs.press/plume.png',
-        name: 'demo',
-        description: 'demo',
+        name: 'xiaobai',
+        description: 'xiaobai is a big sb',
         // circle: true,
         // location: '',
         // organization: '',

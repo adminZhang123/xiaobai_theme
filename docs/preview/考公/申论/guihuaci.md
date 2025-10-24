@@ -34,7 +34,7 @@ permalink: /article/jileici/
 
 
 
-![image-20251020051430990](shenlun_img\jicengzhili.png)
+![image-20251020051430990](../shenlun_img/jicengzhili.png)
 
 
 
